@@ -6,17 +6,18 @@ Based on the result of the performance model on the loss and accuracy graph, the
 Transfer learning is used for the modelling with learning_rate = 0.0001. Fine tune model can also be apply to increase the model accuracy but make sure its not too overfit.
 
 ## The model architecture
-![model](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/fb4753b7-98a0-4454-b4d3-0bbf1828f0c6)
+![model](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/5181d1bb-335f-4c5c-ae99-fbefc4dd3a6a)
 
 ## Performance result of the model
-![performance_result](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/7ef49f67-6f4d-4ae4-b2aa-afea54356ce5)
+![performance_result](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/f1839140-a109-4ab3-8aa0-4493764f3184)
 
 ## Model loss graph
-![loss_graph](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/0f90dce5-579b-4443-b6c1-a27f934a5c24)
+![loss_graph](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/9e286fec-866d-4fdd-a218-3288c7eec5da)
 
 ## Model accuracy graph
-![accuracy_graph](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/0b3795e9-c796-4a23-b69a-2ce6a6bdec10)
+![accuracy_graph](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/909df2ce-8cf5-412e-b0b4-a626fbf202b1)
 
 ## Model deployment 
-![deployment_result](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/731dbaef-6192-4b00-b679-a0f2a1b2e43b)
+![deployment_result](https://github.com/Ruzanaaris/Image-Classification-of-Concrete-Crack/assets/95346773/12d9db3f-3268-4cf9-8af5-cfd6a9761b21)
+
 
